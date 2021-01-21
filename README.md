@@ -17,5 +17,5 @@ Using Python and libraries like Scikit-larn libraries, I am building algorithms 
 
 ## Results
 
-# 1. Naive Random Oversampling models:
+### 1. Naive Random Oversampling models:
 ![image](https://user-images.githubusercontent.com/67131400/105268267-806f6b00-5b57-11eb-8292-9dda02e8cfd3.png)
