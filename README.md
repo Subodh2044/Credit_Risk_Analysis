@@ -30,4 +30,6 @@ Using Python and libraries like Scikit-larn libraries, I am building algorithms 
 
 ![image](https://user-images.githubusercontent.com/67131400/105269424-823a2e00-5b59-11eb-8d04-c248e2bb83a0.png)
 
+* Balance accuracy score is 0.65.
+
 * Precision score for high risk and low risk is 0.01 and 1.0 respectively and recall score for high risk and low risk is 0.64 amd 0.66 respectively.
