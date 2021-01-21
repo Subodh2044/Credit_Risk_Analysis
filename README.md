@@ -24,4 +24,6 @@ Using Python and libraries like Scikit-larn libraries, I am building algorithms 
 
 ![image](https://user-images.githubusercontent.com/67131400/105269010-c678fe80-5b58-11eb-8ec5-b3c9ff72b361.png)
 
+* Precision score for high risk and low risk is 0.01 and 1.0 respectively and recall score for high risk and low risk is 0.64 amd 0.66 respectively.
 
+### 2. SMOTE Oversampling Model
