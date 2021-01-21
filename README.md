@@ -70,8 +70,12 @@ Using Python and libraries like Scikit-larn libraries, I am building algorithms 
 ### 6.  Easy Ensemble AdaBoost Classifier
 
 
+![image](https://user-images.githubusercontent.com/67131400/105270581-9f6ffc00-5b5b-11eb-9e87-65a51d607d27.png)
+
+
 * Balance accuracy score is 0.925.
 
+![image](https://user-images.githubusercontent.com/67131400/105270590-a434b000-5b5b-11eb-8681-4ab81e422cba.png)
 
 * Precision score for high risk and low risk is 0.08 and 1.0 respectively and recall score for high risk and low risk is 0.91 amd 0.94 respectively.
 
