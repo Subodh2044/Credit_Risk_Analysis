@@ -40,9 +40,18 @@ Using Python and libraries like Scikit-larn libraries, I am building algorithms 
 
 ![image](https://user-images.githubusercontent.com/67131400/105269821-4e133d00-5b5a-11eb-9f9b-92001cc0c7a2.png)
 
-* Balance accuracy score is 0.25.
+* Balance accuracy score is 0.52.
 
 ![image](https://user-images.githubusercontent.com/67131400/105269838-54a1b480-5b5a-11eb-8f30-15f0a8935dfe.png)
 
 * Precision score for high risk and low risk is 0.01 and 1.0 respectively and recall score for high risk and low risk is 0.63 amd 0.41 respectively.
+
+### 4. SMOTEENN
+
+
+* Balance accuracy score is 0.64.
+
+
+
+* Precision score for high risk and low risk is 0.01 and 1.0 respectively and recall score for high risk and low risk is 0.70 amd 0.57 respectively.
 
