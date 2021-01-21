@@ -22,3 +22,6 @@ Using Python and libraries like Scikit-larn libraries, I am building algorithms 
 
 * 0.65 is the balanced accuracy score.
 
+![image](https://user-images.githubusercontent.com/67131400/105269010-c678fe80-5b58-11eb-8ec5-b3c9ff72b361.png)
+
+
