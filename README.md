@@ -58,9 +58,20 @@ Using Python and libraries like Scikit-larn libraries, I am building algorithms 
 
 ### 5. Balanced Random Forest Classifier
 
+![image](https://user-images.githubusercontent.com/67131400/105270387-499b5400-5b5b-11eb-8825-54d0d47aae71.png)
+
+
 * Balance accuracy score is 0.80.
 
+![image](https://user-images.githubusercontent.com/67131400/105270396-4ef89e80-5b5b-11eb-961e-1b256d7596db.png)
 
 * Precision score for high risk and low risk is 0.03 and 1.0 respectively and recall score for high risk and low risk is 0.71 amd 0.89 respectively.
 
+### 6.  Easy Ensemble AdaBoost Classifier
+
+
+* Balance accuracy score is 0.925.
+
+
+* Precision score for high risk and low risk is 0.08 and 1.0 respectively and recall score for high risk and low risk is 0.91 amd 0.94 respectively.
 
