@@ -35,3 +35,11 @@ Using Python and libraries like Scikit-larn libraries, I am building algorithms 
 ![image](https://user-images.githubusercontent.com/67131400/105269441-8b2aff80-5b59-11eb-9db7-035cdd6d35d5.png)
 
 * Precision score for high risk and low risk is 0.01 and 1.0 respectively and recall score for high risk and low risk is 0.64 amd 0.66 respectively.
+
+### 3. Undersampling Model
+
+* Balance accuracy score is 0.25.
+
+
+* Precision score for high risk and low risk is 0.01 and 1.0 respectively and recall score for high risk and low risk is 0.63 amd 0.41 respectively.
+
