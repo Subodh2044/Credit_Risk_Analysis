@@ -79,3 +79,14 @@ Using Python and libraries like Scikit-larn libraries, I am building algorithms 
 
 * Precision score for high risk and low risk is 0.08 and 1.0 respectively and recall score for high risk and low risk is 0.91 amd 0.94 respectively.
 
+## Summary
+
+* Similar results are produced by Naive Random and SMOTE sampling.
+* Precision scores for low risk are produced under sampling and oversampling method but undersampling produced the balance accuracy score and F1 score that is lower.
+* There was a very small improvement in balance accuracy score when oversampling and undersampling are combined but on high risk F1 score is low.
+* Balance accuracy scoreis higher in Random classifier than resampling models but lower high risk F1 scores.
+* Easy ensembler has higher balanced accuracy score bu tlower high risk F1 score.
+
+So, while evaluating the models, undersmpling, oversampling and SMOTEENN will not be the best approach in predicting credit risk due to it's accuracy scores being below 0.66 and F1 scores are not ideal to state that the these models will best classify high risk loan application. Balanced random forest classifier and Ensembler are good in predicting the risk but not classifying. If these model is used in making decision it will be very risky.
+
+
