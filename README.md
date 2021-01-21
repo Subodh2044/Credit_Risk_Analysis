@@ -56,3 +56,11 @@ Using Python and libraries like Scikit-larn libraries, I am building algorithms 
 
 * Precision score for high risk and low risk is 0.01 and 1.0 respectively and recall score for high risk and low risk is 0.70 amd 0.57 respectively.
 
+### 5. Balanced Random Forest Classifier
+
+* Balance accuracy score is 0.80.
+
+
+* Precision score for high risk and low risk is 0.03 and 1.0 respectively and recall score for high risk and low risk is 0.71 amd 0.89 respectively.
+
+
